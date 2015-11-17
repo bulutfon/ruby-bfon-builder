@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'bfon_builder'
   spec.version       = BfonBuilder::VERSION
   spec.authors       = ['hamitturkukaya']
-  spec.email         = ['htkaya90@gmail.com']
+  spec.email         = ['dev@bulutfon.com']
 
   spec.summary       = '%q{This is a gem for easy bfon string generator for ruby}'
   spec.description   = '%q{You can generate bfon objects with simple method calls}'
