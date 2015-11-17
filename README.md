@@ -1,5 +1,7 @@
 # BulutfonXM Json Builder
 
+[![Gem Version](https://badge.fury.io/rb/bfon_builder.svg)](https://badge.fury.io/rb/bfon_builder)
+
 ## Installation
 
 Add this line to your application's Gemfile:
