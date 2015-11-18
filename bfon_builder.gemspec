@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['hamitturkukaya']
   spec.email         = ['dev@bulutfon.com']
 
-  spec.summary       = '%q{This is a gem for easy bfon string generator for ruby}'
-  spec.description   = '%q{You can generate bfon objects with simple method calls}'
+  spec.summary       = 'This is a gem for easy bfon string generator for ruby'
+  spec.description   = 'You can generate bfon objects with simple method calls'
   spec.homepage      = 'https://github.com/bulutfon/ruby-bfon-builder'
   spec.license       = 'MIT'
 

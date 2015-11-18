@@ -28,7 +28,7 @@ class BfonBuilder
   end
 
   def dial(number)
-    add(action: :say, args: {destination: number})
+    add(action: :dial, args: {destination: number})
   end
 
   def build
